@@ -27,7 +27,7 @@
 
 }
 #ball2{
-	background: yellow;
+	background: #FFFF04;
 	position: relative;
 	border-radius: 50%;
 	border: none;
@@ -40,7 +40,7 @@
 	margin: 5px;
 }
 #ball3{
-	background: red;
+	background: #FF0100;
 	border-radius: 50%;
 	border: none;
 	display: flex;
