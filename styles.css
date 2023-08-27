@@ -14,7 +14,7 @@
 
 .green{
 	position: relative;
-	background: #028001;
+	background: green;
 	display: flex;
 	justify-content: center;
 	border-radius: 50%;
@@ -27,7 +27,7 @@
 
 }
 .yellow{
-	background: #FFFF04;
+	background: yellow;
 	position: relative;
 	border-radius: 50%;
 	border: none;
@@ -40,7 +40,7 @@
 	margin: 5px;
 }
 .red{
-	background: #FF0100;
+	background: red;
 	border-radius: 50%;
 	border: none;
 	display: flex;
