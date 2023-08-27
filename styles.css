@@ -1,1 +1,53 @@
 /*  your css code here. If applicable */
+.container{
+	background-color: #D2D3D3;
+	border: 2px solid black;
+	height:200px; 
+	width: 600px;
+	border-radius: 35px;
+	position: absolute;
+	display: flex;
+	justify-content: space-around;
+	justify-content: center;
+	align-items: center;
+}
+
+#ball1{
+	position: relative;
+	background: #028001;
+	display: flex;
+	justify-content: center;
+	border-radius: 50%;
+	border: none;
+	width: 100px;
+	height: 100px;
+	align-items: center;
+	padding: 10px;
+/* 	margin: 5px; */
+
+}
+#ball2{
+	background: yellow;
+	position: relative;
+	border-radius: 50%;
+	border: none;
+	justify-content: center;
+	width: 100px;
+	align-items: center;
+	height: 100px;
+	display: flex;
+	padding: 10px;
+	margin: 5px;
+}
+#ball3{
+	background: red;
+	border-radius: 50%;
+	border: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+	marging: 5px;
+}
